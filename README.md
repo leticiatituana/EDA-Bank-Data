@@ -61,3 +61,7 @@ Link de notebook de Google Colab. Deben de estar todos los pasos tomados durante
 ● Bibliografía de recursos consultados
 
 ## 2. Presentación
+
+## References:
+
+- Exploratory Data Analysis with Python
